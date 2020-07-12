@@ -14,7 +14,7 @@ I'm **Laurenzo**, a passionate leader, engineer, and mentor on a mission to:
 
 💻 When coding, you can find me working and experimenting with:
 
-- Typescript
+- JS + Typescript
 - React
 - NodeJS
 - Golang
