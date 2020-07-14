@@ -2,7 +2,7 @@
 
 ---
 
-I'm **Laurenzo**, a passionate leader, engineer, and mentor on a mission to:
+I'm **Laurenzo**, a passionate leader, engineer, and mentor on a personal and professional journey to:
 
 - Lead by example
 - Assemble diverse teams and grow individuals
