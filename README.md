@@ -16,7 +16,8 @@ I'm **Laurenzo**, a passionate leader, engineer, and mentor on a personal and pr
 
 - JS + Typescript
 - React
-- NodeJS
+- Node.js
+- GraphQL
 - Golang
 - Rust
 - and more...
