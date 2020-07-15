@@ -4,7 +4,7 @@
 
 I'm **Laurenzo**, a passionate leader, engineer, and mentor on a personal and professional journey to:
 
-- Lead by example
+- Lead by example and mentor others
 - Assemble diverse performant teams and grow individuals
 - Work on high impact products and solve meaningful problems
 - Influence and embody a healthy culture
