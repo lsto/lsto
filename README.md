@@ -14,11 +14,10 @@ I'm **Laurenzo**, a passionate leader, engineer, and mentor on a personal and pr
 
 💻 When coding, you can find me working and experimenting with:
 
-- JS + Typescript
+- Typescript
 - React
 - Next.js
 - GraphQL
-- Node.js
 - Golang
 - Rust
 - and more...
