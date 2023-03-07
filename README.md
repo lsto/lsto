@@ -10,18 +10,6 @@ I'm **Laurenzo**, a passionate leader, engineer, and mentor on a personal and pr
 - Influence and embody a healthy culture
 - Discover more about myself and learn along the way
 
-<br />
-
-💻 When coding, you can find me working and experimenting with:
-
-- Typescript
-- React
-- Next.js
-- GraphQL
-- Golang
-- Rust
-- and more...
-
 ---
 
 ### Get in touch
