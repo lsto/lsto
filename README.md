@@ -14,5 +14,4 @@ I'm **Laurenzo**, a passionate leader, engineer, and mentor on a personal and pr
 
 ### Get in touch
 
-- [Twitter](https://twitter.com/lstorelli)
 - [LinkedIn](https://www.linkedin.com/in/laurenzo-storelli/)
